@@ -17,7 +17,7 @@ export const StyledHello = styled.div`
 
   .parallax {
     height: 100vh;
-    background: url("/hello2.jpg") no-repeat fixed 51% 64%;
+    background: url("/bigday1.jpg") no-repeat fixed 51% 64%;
   }
 
   .parallax-innter {
